@@ -1,0 +1,19 @@
+{
+    "translations": {
+        "de": {
+            "Auto": "Automatik",
+            "Input Sensor": "Eingabesensor",
+            "Duration": "Dauer",
+            "1 minute" : "1 Minute",
+            "2 minutes" : "2 Minuten",
+            "5 minutes" : "5 Minuten",
+            "10 minutes" : "10 Minuten",
+            "Enable condition" : "Aktivieren",
+            "Logging" : "Logging",
+            "Output Variable" : "Ausgabevariable",
+            "The output variable of the Auto Light Control has no variable action. Please choose a variable with a variable action or add a variable action to the output variable." : "Die Ausgabevariable der Treppenhauslichtsteuerung hat keine Variablenaktion. Bitte wählen Sie eine Variable mit Variablenaktion oder fügen Sie der Ausgabevariablen eine Variablenaktion hinzu.",
+            "On" : "Ein",
+            "Off" : "Aus"
+        }
+    }
+}

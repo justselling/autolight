@@ -1,0 +1,11 @@
+{
+    "id": "{3451675f-0ae6-4e39-9702-55cd4d7145a8}",
+    "name": "CSAutoLightControl",
+    "type": 3,
+    "vendor": "Cool Smart UG",
+    "aliases": ["AutoLightControl"],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "CSSL"
+}

@@ -1,0 +1,26 @@
+{
+    "elements":
+    [
+        { "type": "SelectVariable", "name": "INPUT_TRIGGER_1", "caption": "Input Sensor" },
+        { "type": "SelectVariable", "name": "INPUT_TRIGGER_2", "caption": "Input Sensor" },
+        { "type": "SelectVariable", "name": "INPUT_TRIGGER_3", "caption": "Input Sensor" },
+        { "type": "SelectVariable", "name": "INPUT_TRIGGER_4", "caption": "Input Sensor" },
+        { "type": "SelectVariable", "name": "INPUT_TRIGGER_5", "caption": "Input Sensor" },
+        { "type": "SelectObject", "name": "OUTPUT_1", "caption": "Output Variable" },
+        { "type": "SelectObject", "name": "OUTPUT_2", "caption": "Output Variable" },
+        { "type": "SelectObject", "name": "OUTPUT_3", "caption": "Output Variable" },
+        { "type": "SelectObject", "name": "OUTPUT_4", "caption": "Output Variable" },
+        { "type": "SelectObject", "name": "OUTPUT_5", "caption": "Output Variable" },
+        { "type": "Select", "name": "DURATION", "caption": "Duration", "options": [
+            { "label": "30 secondes", "value": 0.5 },
+            { "label": "1 minute", "value": 1 },
+            { "label": "2 minutes", "value": 2 },
+            { "label": "5 minutes", "value": 5 },
+            { "label": "10 minutes", "value": 10 }
+        ]},
+	{ "type": "ValidationTextBox", "name": "SCENE1",  "caption": "HUE Scene day" },
+	{ "type": "ValidationTextBox", "name": "SCENE2",  "caption": "HUE Scene night" },
+        { "type": "SelectVariable", "name": "ENABLE_CONDITION", "caption": "Enable condition" },
+        { "type": "CheckBox", "name": "ENABLE_LOGGING",  "caption": "Logging" }
+    ]
+}
